@@ -1,5 +1,6 @@
 
-This Solution Contains below feature :
+This Solution Contains below feature : Swagger URL https://localhost:5001/swagger/index.html
+
 
 1- .NET Core
 2- Repository Pattern

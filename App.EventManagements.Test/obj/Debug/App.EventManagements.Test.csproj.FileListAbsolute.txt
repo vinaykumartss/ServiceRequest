@@ -1,2 +1,0 @@
-D:\Vinay_RandomCalls\App.EventManagements.Test\obj\Debug\App.EventManagements.Test.csproj.AssemblyReference.cache
-D:\Vinay_RandomCalls\App.EventManagements.Test\obj\Debug\App.EventManagements.Test.csproj.CoreCompileInputs.cache

@@ -12,6 +12,7 @@ This Solution Contains below feature :
 10- CQRS 
 11- Unit Test
 12 -In-Memory DataBase
+13- SMTP Mail server
 
 
 
